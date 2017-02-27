@@ -3,9 +3,9 @@
 
 Peça o seu cupom de desconto em um dos sites abaixo:
 
-http://www.aprendaangular.com(http://www.aprendaangular.com)
+http://www.aprendaangular.com
 
-http://codigorefinado.github.io/aprendaangular (http://codigorefinado.github.io/aprendaangular)
+http://codigorefinado.github.io/aprendaangular
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
